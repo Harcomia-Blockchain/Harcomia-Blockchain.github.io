@@ -9,7 +9,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://harcomia-blockchain.github.io/" />
     <meta property="og:image" content="https://harcomia-blockchain.github.io/img/hca-250x250.png" />
-    <meta property="og:description" content="WNYC stands for Harcomia, This Connector Adds the BSC mainnet to metamask if you don't already have it along with Harcomia and logo" />
+    <meta property="og:description" content="HCA stands for Harcomia, This Connector Adds the BSC mainnet to metamask if you don't already have it along with Harcomia and logo" />
 	  
 
 
