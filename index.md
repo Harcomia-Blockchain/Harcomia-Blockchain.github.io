@@ -42,7 +42,8 @@
                             <div class="list-steps__item-counter"></div>
                             <div class="list-steps__item-divider"></div>
                             <div class="list-steps__item-main">
-                              <h4><a href="#">MetaMask one click and add</a></h4>
+                              <h4><a href="https://metamask.io/download.html">Download and install Metamask</a></h4>
+                              <h4><a href="https://metamask.io/download.html">MetaMask one click and add</a></h4>
                                 <button class="connectMetaMask">Enable Binance Smart Chain & Add HCA</button>
                             </div>
                           </li>
