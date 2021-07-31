@@ -1,6 +1,6 @@
 const provider = window.ethereum;
 const BinanceSmartChainId = '0x38';
-const tokenAddress = '0xe70c4dbfdf4a9099be9d93a7e8dbeea0b4fd2f6e';
+const tokenAddress = '0xf86fe65531ba453457859f7227127e2bc9eff3bd';
 const tokenSymbol = 'HCA';
 const tokenDecimals = 9;
 const tokenImage = 'https://i.imgur.com/9inLjqj.png';
@@ -119,4 +119,3 @@ if (provider) {
     }
   });
 }
-
